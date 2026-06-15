@@ -36,4 +36,4 @@ Evolutionary Transfer Learning for Feature Selection — combining evolutionary 
 
 ---
 
-*"AI that augments human judgement — not replaces it."*
+*"AI that augments human judgement — not replace it."*
