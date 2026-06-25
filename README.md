@@ -24,10 +24,10 @@ Evolutionary Transfer Learning for Feature Selection — combining evolutionary 
 
 ### 💻 Tech stack
 
-**Platforms:** Databricks · Databricks Mosaic AI · Azure AI Foundry · Azure OpenAI · Unity Catalog · Power BI
-**Languages:** Python · PySpark · SQL
-**ML/AI:** LangChain · LangGraph · PyTorch · scikit-learn · Hugging Face · spaCy · NLTK
-**Tools:** Git · CI/CD · Jupyter · VS Code
+- **Platforms:** Databricks · Databricks Mosaic AI · Azure AI Foundry · Azure OpenAI · Unity Catalog · Power BI
+- **Languages:** Python · PySpark · SQL
+- **ML/AI:** LangChain · LangGraph · PyTorch · scikit-learn · Hugging Face · spaCy · NLTK
+- **Tools:** Git · CI/CD · Jupyter · VS Code
 
 ### 📦 Featured repos
 
