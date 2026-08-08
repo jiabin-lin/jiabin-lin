@@ -31,6 +31,7 @@ Evolutionary Transfer Learning for Feature Selection — combining evolutionary 
 
 ### 📦 Featured repos
 
+- [**speaking_coach**](https://github.com/jiabin-lin/speaking_coach) — AI English speaking coach: practice speaking with real-time ASR (FunASR + Qwen Audio) and get AI feedback from DeepSeek LLM
 - [**english-vocab-agent**](https://github.com/jiabin-lin/english-vocab-agent) — AI-powered English vocabulary learning assistant with speech input (DeepSeek LLM + ASR)
 - [**AMTEA Feature Selection**](https://github.com/jiabin-lin/AMTEA-Based-Multi-task-Optimisation-for-Multi-objective-Feature-Selection-in-Classification) — EvoStar 2023 paper: multi-task optimisation for multi-objective feature selection
 
